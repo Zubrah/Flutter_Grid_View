@@ -1,6 +1,6 @@
-# table_example
+# Grid View Example
 
-A new Flutter project.
+A new Flutter project to explain the Grid View 
 
 ## Getting Started
 
